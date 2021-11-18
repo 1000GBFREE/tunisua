@@ -1,0 +1,2 @@
+Dear customer from {{ customer city name }} The company gives super deals 25 GB this offer made for you today : {{ today name }} in {{ hour }} Subscribe now to 3 offers to get it please Chose Your Company And Verify your phone number with the code to Subscribe In The Limited Offer.
+this offer available for : {{ 25 secondes counter down }} .
