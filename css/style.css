@@ -150,24 +150,26 @@ background:#fff;
 
 #link1
   {
-    color: #020202;
-    background: #e5e4e4;
+    color: #0c0505;
+    background: #fecb05;
     padding: 15px;
     text-decoration: none;
   }
 
   #link2
   {
-    color: #020202;
-    background: #e5e4e4;
+color: #fff;
+    background: #e50002;
+    text-shadow: 1px 1px 1px #120202;
     padding: 15px;
     text-decoration: none;
   }
 
   #link3
   {
-    color: #020202;
-    background: #e5e4e4;
+    color: #fff;
+    background: #0083c3;
+    text-shadow: 1px 1px 1px black;
     padding: 15px;
     text-decoration: none;
   }
